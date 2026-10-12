@@ -1,6 +1,6 @@
 # aliceOS
 
-aliceOS is a KDE Plasma-inspired desktop environment and userspace distribution layer intended to run on the `nos` kernel. The initial milestone provides a Qt 6 / QML / Qt Quick / Kirigami desktop shell prototype and defines the contracts needed to connect real OS services.
+aliceOS is a KDE Plasma-inspired desktop environment, operating system and userspace distribution layer intended to run on the `nos` kernel. The initial milestone provides a Qt 6 / QML / Qt Quick / Kirigami desktop shell prototype and defines the contracts needed to connect real OS services.
 
 ## Current milestone
 
